@@ -5,6 +5,6 @@ class Solution {
                 return i;
             }
         }
-	    return -3;
+	    return -9;
     }
 }
