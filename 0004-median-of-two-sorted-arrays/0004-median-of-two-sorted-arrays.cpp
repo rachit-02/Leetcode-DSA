@@ -42,10 +42,6 @@ public:
             return res;
         }
 
-        for(auto i: v1){
-            cout<<i<<endl;
-        }
-
         return 0;
     }
 };
